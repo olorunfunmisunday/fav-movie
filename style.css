@@ -1,0 +1,12 @@
+html{
+  font-size: 16px;
+  font-family: monospace;
+  font-weight: 600;
+}
+h4{
+   font-size: 20px;
+  font-weight: 900;
+  border: solid .5px #00bff3;
+  border-radius: 5px;
+  padding: 4px 10px;
+}
