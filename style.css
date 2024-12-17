@@ -1,14 +1,40 @@
+*{
+  margin-left: 5px;
+}
+
 html{
-  font-size: 16px;
+  font-size: 20px;
   font-family: monospace;
   font-weight: 600;
 }
 h3{
   display: inline-block;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 900;
-  border: solid .5px #00bff3;
+  border: solid 2px #00b;
   border-radius: 5px;
   padding: 4px 10px;
 }
 
+#names {
+  font-size: 30px;
+  font-weight: 900;
+  text-align: center;
+  font-family: 'Arial Black', monospace;
+}
+
+
+h1{
+  /* border: solid .5px #00bff3; */
+  border-radius: 10px;
+  padding: 4px 10px;
+  background: black;
+  color: #fff;
+  box-shadow: 0 4px 8px 0 #00b;
+}
+hr{
+  text-align: center;
+}
+li h3{
+  cursor: pointer;
+}
